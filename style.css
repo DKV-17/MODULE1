@@ -1,0 +1,35 @@
+.navbar-header
+{
+    color: rgb(45, 185, 37);
+    font-family:'Times New Roman', Times, serif;
+    font-size:50px;
+    font font-weight:bolder;
+
+}
+.nav-link {
+    color: brown;
+    font-size: 30px;
+}
+.carousel-item{
+    height:600px;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.margin{
+    padding-left: 50px;
+
+}
+h3{
+    padding-top: 200px;
+    font-weight: bolder;
+    font-size: 50px;
+    color: rgb(215, 47, 227);
+}
+.btn1{
+    border-radius: 50px;
+    padding: 15px; 55px;
+    font-size: 20px;
+    margin-top: 20px;
+
+}
